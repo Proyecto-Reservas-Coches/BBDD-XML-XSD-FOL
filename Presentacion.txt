@@ -56,3 +56,11 @@ Ofrecemos un servicio de alquiler de coches de lujo de alta calidad.
 Tenemos un equipo de profesionales con experiencia en la industria.
 Contamos con una amplia variedad de vehículos de lujo para satisfacer las necesidades de nuestros clientes.
 Con esta matriz de análisis, podemos identificar las oportunidades y debilidades internas, así como las amenazas y fortalezas externas, que nos ayudarán a desarrollar una estrategia sólida para nuestra empresa de alquiler de coches de lujo. Podemos enfocarnos en maximizar nuestras fortalezas y minimizar nuestras debilidades, mientras aprovechamos las oportunidades y nos defendemos de las amenazas.
+--------------------------
+los servicios 
+servicios de chofer profesional: un conductor altamente capacitado y experimentado que manejará el vehículo en lugar del cliente.
+servicios de concierge: ayuda con reservas de hoteles, restaurantes, entradas para eventos, entre otros.
+servicios de seguridad: pueden incluir un servicio de seguridad privado o servicios de seguridad en el vehículo.
+servicios de entretenimiento: pueden incluir sistemas de entretenimiento en el vehículo, como televisores, sistemas de sonido de alta calidad, etc.
+servicios de floristería: se pueden ofrecer arreglos florales para el vehículo en eventos como bodas.
+servicios de recogida y entrega: se pueden ofrecer servicios de recogida y entrega del vehículo en un lugar específico.
