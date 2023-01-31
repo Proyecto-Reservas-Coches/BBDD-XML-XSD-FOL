@@ -1,53 +1,20 @@
-html css  y javascript : con plantilla y editar
-bbdd: conceptual, logico y fisico -> linkear con la pagina por PHP 
-parte fol: riesgos laborales y prevencion (creacion de empresa y dar la prevencion a 5 trbajadores al menos)
+paginas de usuario normal:
+    pagina inicio:  
+            logo - puede ser dentro del navBar
+            barra de paginas-navBar (inicio, seguros, sobreNosotros y dos butttones ala derecha con signIn/signUp)
+            producto o coche de forma card
+            productos (de forma de card )
+            pagina iniciar session
+            pagina infoCoche 
 
-----------------------
-primera parte : en power point 
-	- explicar la idea de la empresa 
-		+ alquilar coches de lujos  
-		+ target: turistas y gente q tiene dinero y quiere vivir la experencia 
-			o bodas ...
-		+ falta de competencia y de este tipo de empresas (mejor usar DAFO)
-	- pagina web:
-		+ inicio (quienes somos) 
-		+ coches () - puede ser la misma pagina de reservas
- 		+ informacion sobre el tiempo, seguro, y otras informaciones
-		+ 
-	- bbdd:
-		- modelo conceptual: a pensar
-		- modelo logico y fisico
-	- planificacion:
-		+ las tareas
-			- planificar las tareas
-			- explicar la idea de la empresa
-			- buscar la plantilla
-			- editar html y css
-			- editar javascript
-			- crear el modelo conceptual
-			- crear el modelo logico y fisico
-			- linkear la pagina con la bbdd (PHP)
-			- busqueda de los imagenes y contenido de la pagina 
-			* tareas de fol -> 3 tareas
-				- organigrama
-				- ficha y plan de prevencion
-				- 2 protocolos
-			- 
+    pagina seguro
+    pagina sobre nosotros:
 
-		+ dar el tiempo necesario para la tarea y la prioridad
-		+ quien va a hacer la tarea
-		NO OLVIDAR LA DOCUMENTACION
-	- recursos compartidos:
-		(como notion trello, github ..., puede ser dentro de planificacion)
-		
--------------
-
-creacion de organigrama : 
-	4 puestos minimo y sus funciones
-
-juntos en la ficha
-	ficha de riesgos para cada pueste
-	proponer las medias de proteccion
-	hacer un plan de prevencion : fecha y responsable a cada tarea 
-
-diseñar 2 protocolos de refernciendo a las medidas  (2 o 3 horas hasta 4 )
+paginas de admin:
+    pagina inicio: con buttones a gestionar (tiene 4 dentro) 
+    gestionar:
+        coches
+        usuarios
+        reservas
+        seguros 
+    
