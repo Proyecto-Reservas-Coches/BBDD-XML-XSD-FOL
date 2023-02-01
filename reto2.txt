@@ -30,13 +30,15 @@ paginas de admin:
 	- crear la navbar de usuario				-> xabi - julio 
 	- crear el layout de cards en inicio		-> issam - jenny
 	- crear el card para el coche				-> issam - jenny
+	- crear el metodo footer 				-> jenny - julio
 03:
 	- crear pagina de iniciar session			-> julio
 	- crear infoCoche pagina				-> xabi
 	- pagina de seguro					-> jenny
+	- Crear metodo del Carrucel para pagina InfoCoches	->Issam
 04:
-	- crear el card para el coche
-	- busqueda de imagenes y ponerlos en carpetas con un info.txt de cada coche
+	- busqueda de imagenes y ponerlos en carpetas con un info.txt de cada coche		->	xabi
+	- Rellear con contenido coherente cada producto 		->		jenny
 05:
 	
 06: 
