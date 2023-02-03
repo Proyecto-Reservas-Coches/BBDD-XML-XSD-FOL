@@ -1,5 +1,6 @@
 BBDD:
 añdir campo dni , enm tabla usuarios
+cambiar la bbdd la tabla usaruiops columna tipo, "a,u" a "a,n"
 DOCUMENTACION;
 Añadir un "To Do" Apra el futuro;
 A la hora dse reservar gestionar las fechas con los coches disponibles,
