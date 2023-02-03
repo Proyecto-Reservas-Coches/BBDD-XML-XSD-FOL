@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 03-02-2023 a las 09:34:33
+-- Tiempo de generación: 03-02-2023 a las 13:28:59
 -- Versión del servidor: 10.4.25-MariaDB
 -- Versión de PHP: 8.1.10
 
@@ -35,19 +35,21 @@ CREATE TABLE `coches` (
   `caballos` int(11) DEFAULT NULL,
   `color` varchar(50) DEFAULT NULL,
   `ano` int(11) NOT NULL,
-  `precio_base` int(50) DEFAULT NULL
+  `consumo` double DEFAULT NULL,
+  `precio_base` int(50) DEFAULT NULL,
+  `imagen` varchar(250) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
 -- Volcado de datos para la tabla `coches`
 --
 
-INSERT INTO `coches` (`id_coche`, `matricula`, `marca`, `modelo`, `caballos`, `color`, `ano`, `precio_base`) VALUES
-(1, '1237HFU', 'Ferrari', '812GTS', 600, 'negro', 1990, 1000),
-(2, '9852NBX', 'Ferrari', 'SF90STRADALE', 650, 'rojo', 2002, 1200),
-(3, '7642HGM', 'Rolls-Royce', 'Spectre', 570, 'amarillo', 2000, 1500),
-(4, '9974OPNA', 'Rolls-Royce', 'Dawn', 550, 'Blanco', 2005, 1100),
-(5, '6751JKLK', 'Bugatti', 'Chiron', 600, 'azul', 2010, 1550);
+INSERT INTO `coches` (`id_coche`, `matricula`, `marca`, `modelo`, `caballos`, `color`, `ano`, `consumo`, `precio_base`, `imagen`) VALUES
+(1, '1237HFU', 'Ferrari', '812GTS', 600, 'negro', 1990, NULL, 1000, NULL),
+(2, '9852NBX', 'Ferrari', 'SF90STRADALE', 650, 'rojo', 2002, NULL, 1200, NULL),
+(3, '7642HGM', 'Rolls-Royce', 'Spectre', 570, 'amarillo', 2000, NULL, 1500, NULL),
+(4, '9974OPNA', 'Rolls-Royce', 'Dawn', 550, 'Blanco', 2005, NULL, 1100, NULL),
+(5, '6751JKLK', 'Bugatti', 'Chiron', 600, 'azul', 2010, NULL, 1550, NULL);
 
 -- --------------------------------------------------------
 
