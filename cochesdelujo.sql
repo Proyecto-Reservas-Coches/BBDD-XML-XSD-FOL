@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 02-02-2023 a las 13:46:56
+-- Tiempo de generación: 03-02-2023 a las 09:34:33
 -- Versión del servidor: 10.4.25-MariaDB
 -- Versión de PHP: 8.1.10
 
@@ -93,8 +93,9 @@ CREATE TABLE `seguros` (
 --
 
 INSERT INTO `seguros` (`id_seguro`, `tipo`, `precio`) VALUES
-(1, 'premium', 1290),
-(2, 'no_premium', 690);
+(1, 'aTodoRiesgo', 7),
+(2, 'estandar', 5),
+(3, 'elite', 12);
 
 -- --------------------------------------------------------
 
@@ -117,9 +118,9 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id_usuario`, `tipo`, `email`, `contrasena`, `nombre`, `apellido`, `telefono`) VALUES
-(1, 'a', 'je.cervantes@aulanz.net', '1234', 'jennyfer', 'cervantes', '537182533'),
+(1, 'a', 'admin', '1234', 'jennyfer', 'cervantes', '537182533'),
 (2, 'u', 'test', 'test', 'test', 'test', '980765432'),
-(3, 'u', 'ju.azurduy@aulanz.net', '1234', 'daniel', 'azurduy', '789654321');
+(3, 'u', 'je.cervantez@aulanz.net', 'jennifer', 'jennifer', 'cerevantez', '789654321');
 
 --
 -- Índices para tablas volcadas
