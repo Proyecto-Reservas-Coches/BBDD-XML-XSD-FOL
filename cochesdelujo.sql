@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 03-02-2023 a las 13:28:59
+-- Tiempo de generación: 05-02-2023 a las 11:30:29
 -- Versión del servidor: 10.4.25-MariaDB
 -- Versión de PHP: 8.1.10
 
@@ -107,7 +107,8 @@ INSERT INTO `seguros` (`id_seguro`, `tipo`, `precio`) VALUES
 
 CREATE TABLE `usuarios` (
   `id_usuario` int(11) NOT NULL,
-  `tipo` enum('a','u') DEFAULT NULL,
+  `tipo` enum('a','n') DEFAULT 'n',
+  `dni` varchar(9) NOT NULL,
   `email` varchar(200) DEFAULT NULL,
   `contrasena` varchar(200) NOT NULL,
   `nombre` varchar(255) DEFAULT NULL,
@@ -119,10 +120,10 @@ CREATE TABLE `usuarios` (
 -- Volcado de datos para la tabla `usuarios`
 --
 
-INSERT INTO `usuarios` (`id_usuario`, `tipo`, `email`, `contrasena`, `nombre`, `apellido`, `telefono`) VALUES
-(1, 'a', 'admin', '1234', 'jennyfer', 'cervantes', '537182533'),
-(2, 'u', 'test', 'test', 'test', 'test', '980765432'),
-(3, 'u', 'je.cervantez@aulanz.net', 'jennifer', 'jennifer', 'cerevantez', '789654321');
+INSERT INTO `usuarios` (`id_usuario`, `tipo`, `dni`, `email`, `contrasena`, `nombre`, `apellido`, `telefono`) VALUES
+(1, 'a', '21548789T', 'admin', '1234', 'jennyfer', 'cervantes', '537182533'),
+(2, 'n', '25638978R', 'test', 'test', 'test', 'test', '980765432'),
+(3, 'n', '89412626T', 'je.cervantez@aulanz.net', 'jennifer', 'jennifer', 'cerevantez', '789654321');
 
 --
 -- Índices para tablas volcadas
