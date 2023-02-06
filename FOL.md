@@ -2,45 +2,31 @@
 
     CEO (Chief Executive Officer)
 
-        COO (Chief Operating Officer)
-            CFO (Chief Financial Officer)
-
             CMO (Chief Marketing Officer)
 
-            Gerente de Operaciones
+            CFO (Chief Financial Officer)
+   
+            Gerente de Flota
 
-                Gerente de Flota
+            
 
-                Gerente de Servicio al Cliente
 
-            Gerente de Ventas
-
-            Gerente de Desarrollo de Negocios
-
-            Gerente de Marketing
 
 
 
 | Cargo                            | Nombre   |
 | ------------------------------ | -------- |
 | CEO                             | Xabi     |
-| COO                             | Daniel   |
-| CFO                             | Issam    |
 | CMO                             | Jennyfer |
-| Gerente de Operaciones          |          |
-| Gerente de Flota                |          |
-| Gerente de Servicio al Cliente |          |
-| Gerente de Ventas               |          |
-| Gerente de Desarrollo de Negocios |          |
-| Gerente de Marketing            |          |
+| CFO     |      Issam    |
+| Gerente de Operaciones          |     Daniel     |
+| Gerente de Flota al Cliente |      Issam    |
+
 
 ## Descrpcióin del organigrama
 
 ### CEO (Chief Executive Officer)
 - Responsable de la estrategia general y la toma de decisiones importantes.
-
-### COO (Chief Operating Officer)
-- Responsable de la implementación de la estrategia y la operación diaria de la empresa.
 
 ### CFO (Chief Financial Officer)
 - Responsable de la gestión financiera de la compañía, incluyendo la contabilidad, la planificación presupuestaria y la toma de decisiones de inversión.
