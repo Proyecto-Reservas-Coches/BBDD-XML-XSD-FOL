@@ -1,0 +1,37 @@
+.image-view {
+    /* -fx-background-color: white; */
+    -fx-background-radius: 0.25em;
+    -fx-fit-width: 100%;
+}
+
+.label {
+    -fx-font-size: 1.125em;
+    -fx-text-fill: #212529;
+}
+
+.card-title {
+    -fx-font-weight: 700;
+    -fx-padding-top: 1em;
+    -fx-padding-bottom: 0.5em;
+}
+
+.card-text {
+    -fx-font-size: 0.875em;
+    -fx-text-fill: #6c757d;
+    -fx-padding-bottom: 1em;
+}
+
+.button {
+    /* -fx-background-color: #007bff; */
+    -fx-text-fill: white;
+    -fx-font-weight: 700;
+    -fx-background-radius: 0.25em;
+    -fx-padding: 0.375em 0.75em;
+    /* -fx-pref-width: 100%; */
+}
+
+.vbox {
+    -fx-padding: 1em;
+    /* -fx-background-color: #f8f9fa; */
+    -fx-background-radius: 0.25em;
+}
