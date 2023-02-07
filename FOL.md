@@ -23,7 +23,7 @@
 | Gerente de Flota al Cliente |      Issam    |
 
 
-## Descrpcióin del organigrama
+## Descripcióin del organigrama
 
 ### CEO (Chief Executive Officer)
 - Responsable de la estrategia general y la toma de decisiones importantes.
