@@ -7,4 +7,6 @@ A la hora dse reservar gestionar las fechas con los coches disponibles,
 1 idea: Marcar con color disitintos que fechas estan disponibles, y dejar ver que fecha esta disponible 
 2 idea: Recomendar un coche similar disponible, para mejorar la experinecia del usuario.
 3.Footer con newsletter, y nuestra redes sociales
+4.En la portada de admin poder modificar los seguros
+
 
