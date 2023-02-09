@@ -44,11 +44,13 @@ CREATE TABLE `coches` (
 --
 
 INSERT INTO `coches` (`id_coche`, `matricula`, `marca`, `modelo`, `caballos`, `color`, `ano`, `consumo`, `precio_base`) VALUES
-(1, '1237HFU', 'Ferrari', '812GTS', 600, 'negro', 1990, 12, 1000),
+(1, '1237HFU', 'Ferrari', '812GTS', 600, 'rojo', 1990, 12, 1000),
 (2, '9852NBX', 'Ferrari', 'SF90STRADALE', 650, 'rojo', 2002, 13, 1200),
 (3, '7642HGM', 'Rolls-Royce', 'Spectre', 570, 'amarillo', 2000, 15, 1500),
-(4, '9974OPNA', 'Rolls-Royce', 'Dawn', 550, 'Blanco', 2005, 11, 1100),
-(5, '6751JKLK', 'Bugatti', 'Chiron', 600, 'azul', 2010, 14, 1550);
+(4, '9974OPNA', 'Rolls-Royce', 'Dawn', 550, 'azul', 2005, 11, 1100),
+(5, '6751JKLK', 'Bugatti', 'Chiron', 600, 'azul', 2010, 14, 1550),
+(6, '939D723L', 'Mercerdes', 'AMGGT', 450, 'gris', 2014, 12, 1400);
+;
 
 -- --------------------------------------------------------
 
