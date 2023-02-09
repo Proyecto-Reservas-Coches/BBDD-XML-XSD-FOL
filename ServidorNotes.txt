@@ -1,0 +1,27 @@
+equipod--Daw23+
+192.168.1.152
+seleccionar version 
+
+php-mysql //Conector
+php8.1 la //version
+apt-cache search php|grep apache|more 
+apt-cache search xampp|more no esta por defecto
+
+///////////////////
+Desacargar para el linux POSIBILIDAD N1
+
+Subir el paquete al servidor en caso de linux
+winSCP ---Sofware libre (dowloasd and isntall)	
+	ip:
+	usuario:
+	contraseña:
+2 pantallas con la subir.
+
+//////////////////Posibilidad N2///////////////////
+Descargar
+wget <url> 
+
+
+
+
+
