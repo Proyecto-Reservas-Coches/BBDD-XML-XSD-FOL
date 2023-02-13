@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="coches">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="coche">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="id_coche" type="xs:string" />
+                            <xs:element name="marca" type="xs:string" />
+                            <xs:element name="modelo" type="xs:string" />
+                            <xs:element name="color" type="xs:string" />
+                            <xs:element name="ano" type="xs:string" />
+                            <xs:element name="consumo" type="xs:string" />
+                            <xs:element name="precio_base" type="xs:string" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- Este es un ejemplo del XmL que ha creado-->
+<!-- No se cread el enlace directo al XSD, se escribe manualmente-->
+<?xml-model href="ValidacionParaLosXML.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<coches>
+    <coche>
+        <id_coche>2</id_coche>
+        <marca>Ferrari</marca>
+        <modelo>DEJBNDHEB</modelo>
+        <color>blanco</color>
+        <ano>2201</ano>
+        <consumo>Ferrari</consumo>
+        <precio_base>1200</precio_base>
+    </coche>
+</coches>
