@@ -1,6 +1,6 @@
---Creacion de las tablas
+-- Creacion de las tablas
 
---Creacion de coches
+-- Creacion de coches
 CREATE TABLE coches (
   id INT AUTO_INCREMENT PRIMARY KEY,
   marca VARCHAR(50) NOT NULL,
@@ -9,7 +9,7 @@ CREATE TABLE coches (
   precioBase INT NOT NULL
 );
 
---Creacion de reservas
+-- Creacion de reservas
 CREATE TABLE reservas (
   id INT AUTO_INCREMENT PRIMARY KEY,
   id_coche INT NOT NULL,
@@ -23,7 +23,7 @@ CREATE TABLE reservas (
   FOREIGN KEY (id_coche) REFERENCES coches(id)
 );
 
---rellenar coches 
+-- rellenar coches 
 INSERT INTO coches (marca, modelo, color, precioBase)
 VALUES 
   ('Ferrari', '812GTS', 'rojo', 1000),
@@ -34,7 +34,7 @@ VALUES
   ('Mercedes', 'AMGGT', 'gris', 1400);
 
 
---rellenar reservas
+-- rellenar reservas
 INSERT INTO reservas (id_coche, fechaIn, fechaFin, nombreCliente, apellidoCliente, emailCliente, telefonoCliente, precioTotal)
 VALUES
   (1, '2023-02-13', '2023-02-17', 'Juan', 'Pérez', 'juanperez@example.com', '555-555-1212', 5000),
