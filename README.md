@@ -1,4 +1,25 @@
-# Diseño de la Aplicación para Alquiler de Coches de Lujo
+# DOCUMENTACiÓN
+
+## Objetivo
+El objetivo de este proyecto es construir una aplicación web que permita a los usuarios realizar reservas y aparete gestionar las reservas y coches.
+
+## Alcance
+La aplicación permitirá a los usuarios:
+
+* Realizar  reservas
+  * En una futura version:
+    * Suscribirse a la web 
+
+La apicaión permitirá a los administradores:
+* Gestionar las reservas
+  * En una futura version:
+    * Gestionar los coches
+    * Gestionar los Seguros
+    * Gestionar los usuarios
+## Recursos
+## Planificacion
+
+## Diseño de la Aplicación para Alquiler de Coches de Lujo
 
 
 ## Introducción
