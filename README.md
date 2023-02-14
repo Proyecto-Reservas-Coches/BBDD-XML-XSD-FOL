@@ -16,10 +16,36 @@ La apicaión permitirá a los administradores:
     * Gestionar los coches
     * Gestionar los Seguros
     * Gestionar los usuarios
+
 ## Recursos
-## Planificacion
+
+* Github : 
+Hemos utilizado la plataforma principalmente para el control de versiones y para trabajar juntos en el proyecto de manera eficiente y organizada.  Empezamos con la creación de un repositorio con las personas integrantes, y añadiendo una rama independiente para cada participante. Git nos permite compartir y alojar nuestro código, seguir el progreso del proyecto y discutir soluciones a problemas técnicos con el resto de comapñeros. También ofrece herramientas útiles para garantizar la calidad del código, como la revisión del mismo y las pruebas automatizadas.
+
+
+
+
+<br>
+
+* JIRA  :
+JIRA es una plataforma de gestión de proyectos y seguimiento.
+Con ella se puede planificar, seguir y realizar un seguimiento del progreso de nuestro proyecto. También pueden crear y asignar tareas y seguir su estado, lo que nos permite mantener una visibilidad completa del progreso del proyecto. Esta plataforma nos ha ayudado en gran medida para distribuir con eficiencia los trabajos a realizar y la participación equilabrada del equipo. 
+
+
+<br>
+
+* IntelliJ DEA:
+IntelliJ tiene una interfaz de usuario intuitiva y fácil de usar, eso nos ayuda a trabajar de manera más eficiente. Cuenta con una serie de herramientas para el análisis de código que ayudan a detectar errores, identificar posibles mejoras de rendimiento y sugerir soluciones. <br>
+<br>En ella trabajamos con multiples clases y métodos para la creación de nuestro pryecto que tendrá una acción directa en nuestra Aplicación y su funcionalidad. En este trabajo hemos hecho uso de diversas bibliotecas como por ejemplo FXJAVA,
+que facilita la creación de interfaces, algunas de sus características han sido fundamentales así como la creación de componentes gráficos: botones, menús... y manipulación de eventos. Por otro lado, ScenerBuilder: Se ha utilizado sobretodo para la parte visual del diseño. Hemos escogido esta paltaforma por la complicidad de trabajo.
+
+
 
 ## Diseño de la Aplicación para Alquiler de Coches de Lujo
+
+
+
+
 
 
 ## Introducción
