@@ -1,15 +1,20 @@
 # EVALUACIÓN DE RIESGOS
 
-DONITILUXDRUVE SL .
--
-
-Director/a
+## Organigrama de DONITILUXDRUVE SL .
 
 
-Director/a Técnico:  *Equipo de Seguridad*, *Equipo de LImpieza* y *Chofer*
+* Direccion General
+  *  *Director/a*
 
+* Sector Administrativo-
+  * *Director/a Técnico*:
+    *   *Equipo de Seguridad*
+    *    *Equipo de LImpieza*    
+    *    *Chofer*
 
-Director/a Administrativo: *Recepcionista*
+* Sector Técnico
+  * *Director/a Administrativo*
+    * *Recepcionista*
 
 <br>
 <br>
@@ -23,7 +28,7 @@ Director/a Administrativo: *Recepcionista*
 ## Equipo de Limpieza
 ************************
 
-|Peligro identificado  | Probabilidad   | Severidad  | Calificación de Riesgo  | Preoridad Preventiva  | Acción Propuesta  | Resposable  | Fecha  | Estado  | 
+|Peligro identificado  | Probabilidad   | Severidad  | Calificación de Riesgo  | Preoridad Preventiva  | Acción Propuesta  | Responsable  | Fecha  | Estado  | 
 | ------- | -------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 |Productos Químicos de Limpieza    |   A   |   M   |   M   |   2   | Uso de equipos de protección individual: Guantes de protección frente a productos químicos. Gafas o pantalla de protección, cuando los productos de limpieza dispongan de las indicaciones de peligro H314 y mascarillas.   | Responsable de prevención    | 12-02-2023   | En proceso   |
 |Caídas al mismo nivel   | A    | M   | M   | 2   | Para evitar tener accidentes en suelos mojados, resbaladizos o con restos y sustancias que puedan provocar resbalones. Tenemos que señalar la zona con un panel.| Responsable de prevención| 04-05-2023  | Pendiente   |
@@ -54,7 +59,7 @@ Director/a Administrativo: *Recepcionista*
 
 
 
-|Peligro identificado  | Probabilidad   | Severidad  | Calificación de Riesgo  | Preoridad Preventiva  | Acción Propuesta  | Resposable  | Fecha  | Estado  | 
+|Peligro identificado  | Probabilidad   | Severidad  | Calificación de Riesgo  | Preoridad Preventiva  | Acción Propuesta  | Responsable  | Fecha  | Estado  | 
 | ------- | -------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 |Manipulación de armas| A    | A   | I   | 1   | Trabajadores con los equipos adecuados. Establecer protocolos y formación  para actuar en situaciones necesarias.| Responsable de prevención    | 01-03-2023| Pendiente   |
 |Choques contra objetos móviles   | A    | A   | I   | 1   | Pasillos con el ancho reglamentario (LPRL) y establecer una iluminación adecuada. | Responsable de prevención    | 12-02-2023| Pendiente |
@@ -83,7 +88,7 @@ Director/a Administrativo: *Recepcionista*
 ************************************
 
 
-|Peligro identificado  | Probabilidad   | Severidad  | Calificación de Riesgo  | Preoridad Preventiva  | Acción Propuesta  | Resposable  | Fecha  | Estado  | 
+|Peligro identificado  | Probabilidad   | Severidad  | Calificación de Riesgo  | Preoridad Preventiva  | Acción Propuesta  | Responsable  | Fecha  | Estado  | 
 | ------- | -------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 |Ergonomía    | A    | A   | M   | 2 | Proporcionar herramientas y equipos ergonómicos para apoyar una postura saludable y reducir la fatiga muscular. Capacitar a los trabajadores sobre la importancia de la ergonomía y cómo utilizar de manera segura las herramientas y equipos. |Responsable de prevención  | 13-04-2023   | Pendiente   |
 |Iluminación   | A    | M   | M   | 2   | La iluminación natural se utilizará preferentemente sobre la artificial. La iluminación utilizada deberá evitar deslumbramientos, brillos, reflejos, luces intermitentes. Será uniforme y con una intensidad adecuada.| Responsable de prevención    | 30-02-2023   | Pendiente   |
@@ -109,7 +114,7 @@ Director/a Administrativo: *Recepcionista*
 ********************************
 
 
-|Peligro identificado  | Probabilidad   | Severidad  | Calificación de Riesgo  | Preoridad Preventiva  | Acción Propuesta  | Resposable  | Fecha  | Estado  | 
+|Peligro identificado  | Probabilidad   | Severidad  | Calificación de Riesgo  | Preoridad Preventiva  | Acción Propuesta  | Responsable  | Fecha  | Estado  | 
 | ------- | -------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 |Violencia física   | A    | A   | I   | 1   | Instalación de dispositivos en los coches para su localización   | Responsable de prevención    | 11-02-2023   | Pendiente  |
 |Depresión    | A    | A   | I   | 1   | Facilitar y orientar la atención necesaria para desempeñar el trabajo.   | Responsable de prevención    | Texto   | Te27-02-2023xto   |
@@ -136,7 +141,7 @@ Director/a Administrativo: *Recepcionista*
 ************************
 
 
-|Peligro identificado  | Probabilidad   | Severidad  | Calificación de Riesgo  | Preoridad Preventiva  | Acción Propuesta  | Resposable  | Fecha  | Estado  | 
+|Peligro identificado  | Probabilidad   | Severidad  | Calificación de Riesgo  | Preoridad Preventiva  | Acción Propuesta  | Responsable  | Fecha  | Estado  | 
 | ------- | -------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 |Caídas al mismo nivel   | B    | B   | T   | 4   | Capacitar a los trabajadores en los peligros asociados con las caídas a mismo nivel y en cómo prevenirlas. | Responsable de prevención    | 12-08-2023   | Pendiente   |
 |Caídas de objetos    | B    | B   | T   | 4   | Capacitar a los trabajadores en la importancia de mantener una buena organización en el lugar de trabajo y en cómo evitar que los objetos se caigan.| Responsable de prevención   | 10-07-2023   | Pendiente   |
