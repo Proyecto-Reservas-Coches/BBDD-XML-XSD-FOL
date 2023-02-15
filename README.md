@@ -50,22 +50,19 @@ que facilita la creación de interfaces, algunas de sus características han sid
 
 ## Introducción
 
-Bienvenidos al diseño de la aplicación para alquiler de coches de lujo. En este documento se describirán las características, funcionalidades y requisitos necesarios para la construcción de la aplicación.
+Bienvenidos al diseño de la aplicación para alquiler de coches de lujo. En este documento se describirán las funcionalidades y requisitos necesarios para la construcción de la aplicación.
 
 ## Descripción de la Aplicación
 
-La aplicación permite a los usuarios alquilar coches de lujo a través de una plataforma en línea. Los usuarios pueden seleccionar el modelo de coche deseado, la fecha y el lugar de recogida, y hacer la reserva en línea. La aplicación también incluye un sistema de pago seguro y una opción para proporcionar comentarios y calificaciones sobre el servicio.
-
-## Características
-
-* Selección de modelos de coches de lujo disponibles
-* Reservas en línea con fecha y lugar de recogida
+La aplicación permite a los usuarios alquilar coches de lujo a través de una aplicacion. Los usuarios pueden seleccionar el modelo de coche deseado, su marca, el color y la fecha de alquiler.
 
 ## Funcionalidades
 
 1. Inicio de sesión y registro de usuarios
-2. Búsqueda y selección de modelos de coches de lujo disponibles
-3. Reservas en línea con fecha y lugar de recogida
+2. Selección de modelos de coches de lujo disponibles
+3. Alquilar coche
+4. Reservas con fecha
+5. CRUD (añadir, editar, eliminar, actualizar)
 
 ## Requisitos Técnicos
 
@@ -77,4 +74,4 @@ La aplicación permite a los usuarios alquilar coches de lujo a través de una p
 ## Conclusiones
 
 
-Este diseño proporciona una visión general de la aplicación para alquiler de coches de lujo, incluyendo sus características, funcionalidades y requisitos técnicos. La construcción de la aplicación seguirá estas especificaciones para garantizar una experiencia de usuario satisfactoria y un servicio eficiente.
+Este diseño proporciona una visión general de la aplicación para alquiler de coches de lujo, incluyendo funcionalidades y requisitos técnicos. La construcción de la aplicación seguirá estas especificaciones para garantizar una experiencia de usuario satisfactoria y un servicio eficiente.
