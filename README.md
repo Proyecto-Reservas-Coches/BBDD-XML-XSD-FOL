@@ -39,12 +39,10 @@ IntelliJ tiene una interfaz de usuario intuitiva y fácil de usar, eso nos ayuda
 <br>En ella trabajamos con multiples clases y métodos para la creación de nuestro pryecto que tendrá una acción directa en nuestra Aplicación y su funcionalidad. En este trabajo hemos hecho uso de diversas bibliotecas como por ejemplo FXJAVA,
 que facilita la creación de interfaces, algunas de sus características han sido fundamentales así como la creación de componentes gráficos: botones, menús... y manipulación de eventos. Por otro lado, ScenerBuilder: Se ha utilizado sobretodo para la parte visual del diseño. Hemos escogido esta paltaforma por la complicidad de trabajo.
 
-
+<br>
+<br>
 
 ## Diseño de la Aplicación para Alquiler de Coches de Lujo
-
-
-
 
 
 
